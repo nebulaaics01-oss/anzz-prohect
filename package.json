@@ -12,8 +12,5 @@
     "node-fetch": "^2.7.0",
     "@supabase/supabase-js": "^2.57.0"
   },
-  "description": "ANZZ PROJECT — public template with Supabase login, credits, maintenance and broadcast",
-  "engines": {
-    "node": "24.x"
-  }
+  "description": "ANZZ PROJECT \u2014 public template with Supabase login, credits, maintenance and broadcast"
 }

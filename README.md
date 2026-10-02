@@ -1,6 +1,6 @@
 ## ANZZ PROJECT — Template Publik
 
-Template publik ANZZ PROJECT dengan tampilan modern, akun pengguna, sistem kredit, dan halaman pengelola.
+Template publik Cupz Project dengan tampilan modern, akun pengguna, sistem kredit, dan halaman pengelola.
 
 > **Catatan penting:** template ini tidak menyertakan password, token rahasia, file `.env`, atau kunci milik pembuat. Setiap orang yang memakai template wajib menggunakan akun Supabase miliknya sendiri.
 
@@ -46,9 +46,9 @@ Untuk pengujian di komputer, Node.js versi LTS juga disarankan, tetapi **tidak w
 
 1. Login ke GitHub.
 2. Pilih **New repository**.
-3. Beri nama repository, misalnya `anzz-project-template`.
+3. Beri nama repository, misalnya `cupz-am-template`.
 4. Buat repository.
-5. Upload **isi folder `anzz-project`**, bukan ZIP-nya.
+5. Upload **isi folder `aligtht-motion-v2`**, bukan ZIP-nya.
 6. Commit perubahan.
 
 ### Jangan upload

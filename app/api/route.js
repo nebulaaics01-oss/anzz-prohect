@@ -1,0 +1,11 @@
+const express=require('express');const router=express.Router();
+router.use('/status',require('./status/route'));
+router.use('/site',require('./site/route'));
+router.use('/account',require('./account/route'));
+router.use('/admin',require('./admin/route'));
+router.use('/send-link',require('./send-link/route'));
+router.use('/verify-link',require('./verify-link/route'));
+router.use('/stats',require('./stats/route'));
+router.use('/email',require('./email/route'));
+router.use('/auto',require('./auto/route'));
+module.exports=router;
